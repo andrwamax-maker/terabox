@@ -1,0 +1,7 @@
+name = "terabox-video-bot"
+main = "index.js"
+compatibility_date = "2024-01-01"
+# type = "javascript" # Workers এর নতুন ভার্সনে সাধারণত এটি লাগে না
+
+[site]
+# Workers এ Webhook ব্যবহারের জন্য Site কনফিগারেশনের প্রয়োজন নেই।
