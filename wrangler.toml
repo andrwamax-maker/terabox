@@ -1,3 +1,6 @@
-name = "terabox-video-bot"  
+
+
+name = "terabox-video-bot"
 main = "index.js"
 compatibility_date = "2024-01-01" 
+
