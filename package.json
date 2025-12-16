@@ -1,0 +1,13 @@
+{
+  "name": "terabox-bot-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "axios": "^1.6.5",
+    "mongoose": "^8.0.0"
+  }
+}
